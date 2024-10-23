@@ -9,7 +9,8 @@ Domain : WEB DEVELOPMENT
 Duration : SEPTEMBER - NOVEMBER 2024
 
 Project Overview: Enhanced To-Do List Web App This project is a modern to-do list web application with several attractive features designed to enhance user experience. The app utilizes HTML, CSS, and JavaScript to create an intuitive, responsive, and visually pleasing interface. It includes dark mode, task priority levels, task editing, and LocalStorage to persist data across sessions. 
-![Screenshot 2024-10-11 212422](https://github.com/user-attachments/assets/9139baa8-5a5a-4271-ab18-c9418fe4ff71)
+![Screenshot 2024-10-11 212422](https://github.com/user-attachments/assets/e51c718f-30be-4e2a-af0d-67448408e1d3)
+
 
 Features of the Project
 
